@@ -34,7 +34,7 @@ cuenta de GitHub si no la tienes creada.
 4. Usa los siguientes comandos rellenandolos con el nombre y el correo que usaste al crear tu cuenta de GitHub para
    cuando vayas a guardar lo que hayas hecho:
 
-   git config --global user.name **[Nombre de usuario]**
+   git config --global user.name **[Nombre de usuario]**  
    
    git config --global user.email **[correo electrónico]**
 
