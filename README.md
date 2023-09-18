@@ -45,7 +45,8 @@ Para poder trabajar en GitHub, es necesario crear un repositorio. Un repositorio
 se guarda y organiza todo lo relacionado con un proyecto de software, incluyendo código, documentos y archivos. Este
 Repositorio lo crearemos desde la web de HitHub.
 
-1. Crea un repositorio haciendo clic en el botón "+"
+1. Crea un repositorio haciendo clic en el botón "+" que se encuentra en la parte superior deecha de la página de inicio
+2. 
 
 ## Bibliografia
 https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/
