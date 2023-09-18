@@ -38,5 +38,14 @@ cuenta de GitHub si no la tienes creada.
    
    git config --global user.email **[correo electrónico]**
 
+Y con esto habríamos terminado nuestra instalación
+
+### Crear un repositorio
+Para poder trabajar en GitHub, es necesario crear un repositorio. Un repositorio en GitHub es un espacio digital donde 
+se guarda y organiza todo lo relacionado con un proyecto de software, incluyendo código, documentos y archivos. Este
+Repositorio lo crearemos desde la web de HitHub.
+
+1. Crea un repositorio haciendo clic en el botón "+"
+
 ## Bibliografia
 https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/
