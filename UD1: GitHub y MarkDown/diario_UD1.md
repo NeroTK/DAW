@@ -1,4 +1,5 @@
 ##Semana 1
+
 ###Qué he aprendido
 
 ###Qué **no entiendo**
