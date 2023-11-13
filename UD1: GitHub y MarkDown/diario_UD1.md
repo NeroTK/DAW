@@ -1,9 +1,9 @@
-##Semana 1
+## Semana 1
 
-###Qué he aprendido
+### Qué he aprendido
 
-###Qué **no entiendo**
+### Qué **no entiendo**
 
-###Qué es lo que **más** me ha gustado y qué es lo que **menos**
+### Qué es lo que **más** me ha gustado y qué es lo que **menos**
 
-###Qué más me gustaría saber relacionado con la Unidad
+### Qué más me gustaría saber relacionado con la Unidad
