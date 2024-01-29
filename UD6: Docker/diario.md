@@ -12,3 +12,5 @@ Menos: Es un poco lioso al inicio, pero si te adaptas és realmente cómodo
 
 ### Qué más me gustaría saber relacionado con la Unidad
 Me gustaría conocer cuales son los dockers más usados
+
+## Semana 10 18/12/2023 - 24/12/2023  EXAMEN
